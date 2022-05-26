@@ -25,5 +25,5 @@ This is a Restaurant Reservation Application for IOS Name: **Get My Table**
    2. In the prompt that appears, select the Firebase GitHub repository:
         > `https://github.com/firebase/firebase-ios-sdk.git`
    3. Choose the Firebase libraries checked in the screen-shot below
-        > <img width="1440" alt="Library_requirement _Project_MADS4005" src="https://user-images.githubusercontent.com/47302435/170415332-a395bbd9-f418-4e6c-bf59-fbbb6623400d.png">
+        > <img width="1125" alt="Screen Shot 2022-05-26 at 12 26 20 AM" src="https://user-images.githubusercontent.com/47302435/170415873-05fa5e0f-8254-4dda-86e4-f122f5d7d433.png">
    4.  Once you're finished :white_check_mark:, Xcode will begin resolving your package dependencies and downloading them in the background.
