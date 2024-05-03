@@ -27,3 +27,7 @@ This is a Restaurant Reservation Application for IOS Name: **Get My Table**
    3. Choose the Firebase libraries checked in the screen-shot below
         > <img width="1125" alt="Screen Shot 2022-05-26 at 12 26 20 AM" src="https://user-images.githubusercontent.com/47302435/170415873-05fa5e0f-8254-4dda-86e4-f122f5d7d433.png">
    4.  Once you're finished :white_check_mark:, Xcode will begin resolving your package dependencies and downloading them in the background.
+  
+## Additional Info
+
+> * Get My Table(GMT) Features Video Demonstartion :movie_camera: [Here](https://drive.google.com/file/d/1_6rR0jvtCRQl6PBOpeWiYuMklh43IaJO/view?usp=sharing).
